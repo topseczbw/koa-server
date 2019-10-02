@@ -6,7 +6,7 @@
 
 1. 进入项目目录
 2. 执行 `npm install`
-3. 执行 `npm run serve`
+3. 执行 `npm run watch`
 
 ## 请求接口示例
 
